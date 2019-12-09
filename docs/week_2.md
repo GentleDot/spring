@@ -9,7 +9,7 @@
 ## 진행
 * 강의 수강
 * 발표 및 논의
-	* 백상일: 링크
+	* 백상일: [링크](https://github.com/GentleDot/restart_spring/blob/spring-sample/spring-petclinic/about-spring.md)
 	* 엄홍준: 링크
 
 ##### [목차로 이동](#목차)
